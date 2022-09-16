@@ -1,5 +1,16 @@
 # Deepfake-Audio-Detection
 
+this repo contating code for GAN application, the porpose of this application is to generate newimage form training set.
+
+## instalation 
+
+clone the repo in the google drive colab notebook. 
+```
+https://colab.research.google.com/drive/18vjgBQOeWM4wb31JCq9XhTe7ti5Mtmpv?usp=sharing
+
+```
+
+
 
 Bicoherence analysis is a well established method for identifying the quadratic nonlinearity of stationary processes. However,
 it is often applied without checking the basic assumptions of stationarity and convergence. The classic bicoherence, unfortunately,
